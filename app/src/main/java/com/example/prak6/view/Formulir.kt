@@ -33,4 +33,7 @@ import androidx.compose.ui.unit.dp
 fun FormIsian(
     jenisK: List<String> = listOf("Laki-laki", "Perempuan"),
     OnSubmitBtnClick: () -> Unit
-)
+) {
+    Scaffold(modifier= Modifier,
+
+    )
